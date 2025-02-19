@@ -2,9 +2,9 @@ import React from "react";
 import "./App.css";
 import Navbar from "./Components/Navbar/Navbar";
 import { useState } from "react";
-import Quiz from "./components/Quiz";
-import Scoreboard from "./components/Scoreboard";
-import History from "./components/History";
+import Quiz from "./components/Quiz.jsx";
+import Scoreboard from "./components/Scoreboard.jsx";
+import History from "./components/History.jsx";
 
 const App = () => {
   const [quizFinished, setQuizFinished] = useState(false);
