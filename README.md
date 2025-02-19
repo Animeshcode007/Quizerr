@@ -16,7 +16,7 @@ An interactive quiz platform built with **React.js** that allows users to attemp
 
 ## Live Demo
 
-🔗 **Deployed App**: [Click Here](https://your-vercel-or-netlify-link.com)
+🔗 **Deployed App**: [Click Here](https://quizerr-sec.vercel.app/)
 
 ---
 
@@ -25,8 +25,8 @@ An interactive quiz platform built with **React.js** that allows users to attemp
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/interactive-quiz.git
-cd interactive-quiz
+git clone https://github.com/Animeshcode007/Quizerr.git
+cd Quizerr 
 ```
 
 ### 2️⃣ Install Dependencies
